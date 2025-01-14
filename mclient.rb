@@ -1,7 +1,7 @@
 class Mclient < Formula
   desc "Cli client for memcache server and other derivatives"
   homepage "https://github.com/lovelock/mclient"
-  sha256 "c4250acb6921c13f8dccfc162d894bd7135a2979"
+  sha256 "d0f6a5fada4a62a908a497479fcdd116632a9b66"
   head "https://github.com/lovelock/mclient.git"
 
   def install
